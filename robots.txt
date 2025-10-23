@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhaochenhao.github.io//sitemap.xml
+Sitemap: https:/bulangya000-prog.github.io//sitemap.xml
